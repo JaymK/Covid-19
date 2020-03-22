@@ -1,5 +1,8 @@
 # Covid-19
-# Covid-19 Open Research Database Challenge
+
+Covid-19 Open Research Database Challenge
+------
+* An AI challenge with AI2, CZI, MSR, Georgetown, NIH & The White House
 
 So, here we are.
 
