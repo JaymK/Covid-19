@@ -7,7 +7,7 @@ Covid-19 Open Research Database Challenge
 So, here we are.
 
 
-* Task: What do we know about infection, incubation and environmental stability?
+* Task: What do we know about transmission, incubation and environmental stability?
 * Analysis: NLP using Spacy
 * Datasets:https://drive.google.com/open?id=1im10MwZftyAH10XoeWjyB8jATuJDvKZk (df_covid.csv)
 * Code:https://github.com/JaymK/Covid-19/blob/master/Covid-19%20transmission%2C%20incubation%2C%20environmental%20stability%203.ipynb
